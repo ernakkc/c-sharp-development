@@ -1,0 +1,15 @@
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/bin/Debug/net10.0/Project-3
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/bin/Debug/net10.0/Project-3.deps.json
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/bin/Debug/net10.0/Project-3.runtimeconfig.json
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/bin/Debug/net10.0/Project-3.dll
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/bin/Debug/net10.0/Project-3.pdb
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.AssemblyInfoInputs.cache
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.AssemblyInfo.cs
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.csproj.CoreCompileInputs.cache
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.sourcelink.json
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.dll
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/refint/Project-3.dll
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.pdb
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/Project-3.genruntimeconfig.cache
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-3/obj/Debug/net10.0/ref/Project-3.dll
