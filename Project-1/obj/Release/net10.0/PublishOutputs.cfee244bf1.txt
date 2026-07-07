@@ -1,0 +1,5 @@
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-1/bin/Release/net10.0/publish/Project-1
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-1/bin/Release/net10.0/publish/Project-1.dll
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-1/bin/Release/net10.0/publish/Project-1.deps.json
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-1/bin/Release/net10.0/publish/Project-1.runtimeconfig.json
+/Users/erenakkoc/Desktop/MAIN/Education and Research/c-sharp-development/Project-1/bin/Release/net10.0/publish/Project-1.pdb
