@@ -23,3 +23,11 @@ foreach (var item in first)
     Console.Write(item + "\t"); // A123    B456    C789    
 }
 
+
+string[] liste = new string[2];
+foreach (var i in liste)
+{
+    var result = Console.ReadLine();
+    liste[liste.IndexOf(i)] = result;
+}
+Console.WriteLine(liste[1]);
